@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 
 export const metadata = {
   title: "Development Cart",
-  description: "Development Cart Test task",
+  description: "Development Cart Test task..",
 };
 
 export default function RootLayout({ children }) {
